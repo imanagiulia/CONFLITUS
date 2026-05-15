@@ -1,4 +1,3 @@
-# Arquivo: backend/app/controllers/fontes.py
 from fastapi import APIRouter
 from app.database import operacoes
 

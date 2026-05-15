@@ -1,5 +1,3 @@
-# Arquivo: backend/app/controllers/rotas.py
-
 from fastapi import APIRouter, HTTPException
 from app.models import RotaDeTransporte, ZonaDeImpacto, Coordenada
 from app.database import operacoes
